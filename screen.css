@@ -7,6 +7,15 @@ body {
     font-weight: bold;
 }
 
+main{
+    margin: 0 auto;
+    width: 800px;
+}
+
+.details{
+    display: flex;
+}
+
 img {
     width: 100%;
 }
