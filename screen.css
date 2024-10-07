@@ -16,7 +16,6 @@ main{
     background-image: url('Images/Computer\ image.png');
     height: 200px;
     border-radius: 20px;
-    background-position: bottom;
 }
 
 .details{
