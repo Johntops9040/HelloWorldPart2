@@ -30,24 +30,29 @@ main{
     flex-grow: 1;
     flex-basis: 0;
     background: #E9EAEC;
-    padding: 25px;
     border-radius: 20px;
     margin-top: 25px;
 }
 
 .details section.with-code{
     padding: 0;
-
 }
 
-div.code-copy{
-    padding: 25px;
+.details section h2 {
+    padding: 20px;
 }
+
+.details section p {
+    padding: 20px;
+}
+
 
 div.code-html{
     padding: 25px;
     background: #424242;
     color: #fff;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
 }
 
 img {
